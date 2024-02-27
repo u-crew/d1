@@ -12,7 +12,7 @@
     "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
-    "vm2": "^3.9.11"
+    "vm2": "3.9.11"
   },
   "devDependencies": {
     "@types/node": "^20",
