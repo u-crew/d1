@@ -1,5 +1,5 @@
 {
-  "name": "d1",
+  "name": "sub-b",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,8 @@
   "dependencies": {
     "next": "14.1.0",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "vm2": "3.9.11"
   },
   "devDependencies": {
     "@types/node": "^20",
